@@ -45,7 +45,7 @@ Feel free to customize the animations in the `main.js` file and the styles in th
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-- [Twitter](@DavidAdelwine)
+- [X](https://x.com/DavidAdelwine)
 
 Thank you for checking out this project! If you find it useful, please star the repository and share it with others. Happy coding! 🚀
 ![image](https://github.com/David-Adelwine/Animated-Form/assets/56456782/6e289842-e703-49b6-bf39-de25580db830)
